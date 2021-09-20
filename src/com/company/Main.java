@@ -51,6 +51,5 @@ public class Main {
         else {
             System.out.println("Результат " + i);
         }
-        in.close();
     }
 }
